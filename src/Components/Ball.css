@@ -14,3 +14,14 @@ li{
     list-style: 32px;
     
 }
+
+@media (max-width){
+    li{
+        width: 76px;
+        height: 76px;
+    }
+
+    
+
+    
+}

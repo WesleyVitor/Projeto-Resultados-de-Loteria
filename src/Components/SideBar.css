@@ -19,8 +19,6 @@
     text-transform: uppercase;
 }
 
-
-
 .sidebar span{
     display: block;
     margin: 0;
@@ -42,4 +40,11 @@
     color: #FFF;
 }
 
-
+@media (max-width:903px){
+    .sidebar{
+        height: 60%;
+        width: 100%;
+        box-sizing: border-box;
+        padding-bottom:10px;
+    }
+}
